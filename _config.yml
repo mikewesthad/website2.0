@@ -1,0 +1,14 @@
+highlighter: pygments
+github: [Repository metadata]
+
+# Site settings
+title: mikewesthad
+email: mikewesthad@gmail.com
+description: Michael Hadley's Digital Portfolio Site
+baseurl: ""
+url: "http://www.mikewesthad.com/"
+twitter_username: mikewesthad
+github_username:  mikewesthad
+
+# Build settings
+markdown: kramdown
